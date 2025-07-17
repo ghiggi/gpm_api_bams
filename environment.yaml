@@ -1,0 +1,47 @@
+name: gpm-api-bams
+channels:
+- conda-forge
+dependencies:
+- bokeh
+- bottleneck
+- cartopy
+- click
+- curl
+- dask
+- deepdiff
+- distributed
+- donfig
+- flox
+- folium
+- geopandas
+- gpm-api
+- jupyter
+- matplotlib
+- netcdf4
+- numbagg
+- numpy
+- pandas
+- polars
+- pyarrow
+- pycolorbar
+- pyresample
+- python[version='>=3.9']
+- pyvista
+- radar-api
+- rechunker
+- s3fs
+- satpy
+- scikit-learn
+- seaborn
+- tqdm
+- trame
+- trame-vtk
+- trame-vuetify
+- trollsift
+- wradlib
+- xarray
+- ximage
+- xoak
+- xradar
+- zarr
+
